@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "187768807077",
+    "project_id": "indiestinct-crossplatform",
+    "storage_bucket": "indiestinct-crossplatform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187768807077:android:5e30a83a277d453209b74c",
+        "android_client_info": {
+          "package_name": "com.example.indiestinct_cross_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187768807077-1gu2i0mf41lc9eear6nmfjtfvriu1vsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh1ucxvRMJz876dUGs0iGvT4DZsxKKHL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187768807077-05g0ch6lje0t5sg2c7kcuoo3spn6l1b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187768807077:android:5f0f0cc96a69aab709b74c",
+        "android_client_info": {
+          "package_name": "com.example.indiestinct_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187768807077-1gu2i0mf41lc9eear6nmfjtfvriu1vsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh1ucxvRMJz876dUGs0iGvT4DZsxKKHL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187768807077-05g0ch6lje0t5sg2c7kcuoo3spn6l1b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187768807077:android:0887724983b26ca009b74c",
+        "android_client_info": {
+          "package_name": "com.gilfoyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187768807077-1gu2i0mf41lc9eear6nmfjtfvriu1vsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh1ucxvRMJz876dUGs0iGvT4DZsxKKHL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187768807077-05g0ch6lje0t5sg2c7kcuoo3spn6l1b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

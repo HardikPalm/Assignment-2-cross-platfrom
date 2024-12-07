@@ -1,0 +1,69 @@
+com.gilfoyle.app-jetified-exoplayer-core-2.19.0-0 /Users/mac/.gradle/caches/transforms-3/054d5b189be74cae10782881d313f55a/transformed/jetified-exoplayer-core-2.19.0/res
+com.gilfoyle.app-jetified-viewpager2-1.0.0-1 /Users/mac/.gradle/caches/transforms-3/0585cbaa32a4d6e4de1227b2cb586f83/transformed/jetified-viewpager2-1.0.0/res
+com.gilfoyle.app-browser-1.4.0-2 /Users/mac/.gradle/caches/transforms-3/058f478aabcbe5596f17eb15ee628851/transformed/browser-1.4.0/res
+com.gilfoyle.app-localbroadcastmanager-1.1.0-3 /Users/mac/.gradle/caches/transforms-3/0a433c05f5756ad0fe1b30135ebdada5/transformed/localbroadcastmanager-1.1.0/res
+com.gilfoyle.app-jetified-activity-1.5.0-4 /Users/mac/.gradle/caches/transforms-3/0f5cd8dda213e5de649c838e20da9d92/transformed/jetified-activity-1.5.0/res
+com.gilfoyle.app-jetified-emoji2-1.2.0-5 /Users/mac/.gradle/caches/transforms-3/190044a2753ebdab00505523e55de869/transformed/jetified-emoji2-1.2.0/res
+com.gilfoyle.app-jetified-play-services-base-18.0.1-6 /Users/mac/.gradle/caches/transforms-3/1befe31ec23e216396d9b12195d614b6/transformed/jetified-play-services-base-18.0.1/res
+com.gilfoyle.app-jetified-extension-mediasession-2.19.0-7 /Users/mac/.gradle/caches/transforms-3/1d3c41ca90520c15a607802ce9dfcd53/transformed/jetified-extension-mediasession-2.19.0/res
+com.gilfoyle.app-jetified-tracing-1.1.0-8 /Users/mac/.gradle/caches/transforms-3/1ea397c0b5975da1c02b05c6cdfb9982/transformed/jetified-tracing-1.1.0/res
+com.gilfoyle.app-jetified-play-services-basement-18.2.0-9 /Users/mac/.gradle/caches/transforms-3/2268c2549546c20716617df447afa24e/transformed/jetified-play-services-basement-18.2.0/res
+com.gilfoyle.app-constraintlayout-2.0.1-10 /Users/mac/.gradle/caches/transforms-3/22bb882ee87c37578e14de438877ca91/transformed/constraintlayout-2.0.1/res
+com.gilfoyle.app-jetified-kotlinaudio-v2.1.0-11 /Users/mac/.gradle/caches/transforms-3/3ac3dcaf9bb7bff2541a2a545a6e7fcc/transformed/jetified-kotlinaudio-v2.1.0/res
+com.gilfoyle.app-core-1.9.0-12 /Users/mac/.gradle/caches/transforms-3/3c8a416abadbead796976306b25db525/transformed/core-1.9.0/res
+com.gilfoyle.app-coordinatorlayout-1.2.0-13 /Users/mac/.gradle/caches/transforms-3/485ecf08eb0696de805fe31a4ce530a7/transformed/coordinatorlayout-1.2.0/res
+com.gilfoyle.app-jetified-lifecycle-viewmodel-savedstate-2.5.0-14 /Users/mac/.gradle/caches/transforms-3/5066a4344bd0728522a89921ecfd4fe8/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/res
+com.gilfoyle.app-jetified-startup-runtime-1.1.1-15 /Users/mac/.gradle/caches/transforms-3/533d836ab89d9f42ea15e9c23f83a136/transformed/jetified-startup-runtime-1.1.1/res
+com.gilfoyle.app-jetified-play-services-auth-20.5.0-16 /Users/mac/.gradle/caches/transforms-3/587672d03e39ced1eb7fc33a827df9a4/transformed/jetified-play-services-auth-20.5.0/res
+com.gilfoyle.app-lifecycle-runtime-2.5.1-17 /Users/mac/.gradle/caches/transforms-3/640fb14bbabb12ecfce245a86e306af9/transformed/lifecycle-runtime-2.5.1/res
+com.gilfoyle.app-jetified-annotation-experimental-1.3.0-18 /Users/mac/.gradle/caches/transforms-3/650a4f59513035821e6047882422d643/transformed/jetified-annotation-experimental-1.3.0/res
+com.gilfoyle.app-jetified-appcompat-resources-1.5.0-19 /Users/mac/.gradle/caches/transforms-3/669024e893de60651f5018f15a19e341/transformed/jetified-appcompat-resources-1.5.0/res
+com.gilfoyle.app-jetified-react-android-0.71.3-release-20 /Users/mac/.gradle/caches/transforms-3/7022016d63584e84a8e16d9873b5f483/transformed/jetified-react-android-0.71.3-release/res
+com.gilfoyle.app-jetified-customview-poolingcontainer-1.0.0-21 /Users/mac/.gradle/caches/transforms-3/70a1c3a7bc408c61e5c88313c8873004/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.gilfoyle.app-jetified-core-ktx-1.9.0-22 /Users/mac/.gradle/caches/transforms-3/7723aa068bc25ccc447534d6ca9f19a4/transformed/jetified-core-ktx-1.9.0/res
+com.gilfoyle.app-lifecycle-livedata-core-2.5.0-23 /Users/mac/.gradle/caches/transforms-3/7af97e35c9e2efef8f99e43c8c96dba5/transformed/lifecycle-livedata-core-2.5.0/res
+com.gilfoyle.app-recyclerview-1.3.0-24 /Users/mac/.gradle/caches/transforms-3/7c3956093b5fa87cc4825a34fcd0a035/transformed/recyclerview-1.3.0/res
+com.gilfoyle.app-swiperefreshlayout-1.1.0-25 /Users/mac/.gradle/caches/transforms-3/7ca851a2e9db6997c36a8712a6dee2d8/transformed/swiperefreshlayout-1.1.0/res
+com.gilfoyle.app-lifecycle-viewmodel-2.5.0-26 /Users/mac/.gradle/caches/transforms-3/8bbff0f4b4ec91c6a3f57f017676f01c/transformed/lifecycle-viewmodel-2.5.0/res
+com.gilfoyle.app-jetified-emoji2-views-helper-1.2.0-27 /Users/mac/.gradle/caches/transforms-3/90bd4414e69847b1591b3118cc0fa40d/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.gilfoyle.app-appcompat-1.5.0-28 /Users/mac/.gradle/caches/transforms-3/b1bec7bd7cd7f0eafc8d83f03a68e090/transformed/appcompat-1.5.0/res
+com.gilfoyle.app-jetified-firebase-common-20.3.2-29 /Users/mac/.gradle/caches/transforms-3/b1f0fbb2efe8fe3be234193dd49bd930/transformed/jetified-firebase-common-20.3.2/res
+com.gilfoyle.app-jetified-coil-base-2.2.0-30 /Users/mac/.gradle/caches/transforms-3/ba79bbb0f256be88996cfa010c8658e4/transformed/jetified-coil-base-2.2.0/res
+com.gilfoyle.app-jetified-exoplayer-ui-2.19.0-31 /Users/mac/.gradle/caches/transforms-3/bb00791df2e753d11494b43997b76c88/transformed/jetified-exoplayer-ui-2.19.0/res
+com.gilfoyle.app-jetified-savedstate-1.2.0-32 /Users/mac/.gradle/caches/transforms-3/bccef2b0844ef8ef6557e6d02da99a93/transformed/jetified-savedstate-1.2.0/res
+com.gilfoyle.app-material-1.6.1-33 /Users/mac/.gradle/caches/transforms-3/bf8936f1f1a5d58072cf9f297c1fb483/transformed/material-1.6.1/res
+com.gilfoyle.app-drawerlayout-1.1.1-34 /Users/mac/.gradle/caches/transforms-3/c27303b2fa873797a6354920429c36ba/transformed/drawerlayout-1.1.1/res
+com.gilfoyle.app-jetified-lottie-5.1.1-35 /Users/mac/.gradle/caches/transforms-3/c4204d38e835211e83e2757a8edd9c33/transformed/jetified-lottie-5.1.1/res
+com.gilfoyle.app-jetified-drawee-2.5.0-36 /Users/mac/.gradle/caches/transforms-3/ca0c94420111734552b07d04eebd225f/transformed/jetified-drawee-2.5.0/res
+com.gilfoyle.app-jetified-lifecycle-process-2.5.1-37 /Users/mac/.gradle/caches/transforms-3/ce9c5f63e4a94346e4785ed7c53e08b4/transformed/jetified-lifecycle-process-2.5.1/res
+com.gilfoyle.app-transition-1.2.0-38 /Users/mac/.gradle/caches/transforms-3/cfbbf0044774fc015ff85a67ba8fb4df/transformed/transition-1.2.0/res
+com.gilfoyle.app-cardview-1.0.0-39 /Users/mac/.gradle/caches/transforms-3/da16bceed68d50bce99965fd4810fac8/transformed/cardview-1.0.0/res
+com.gilfoyle.app-jetified-autofill-1.1.0-40 /Users/mac/.gradle/caches/transforms-3/dbd76bcb3629cbc08bdedd7f08cd6923/transformed/jetified-autofill-1.1.0/res
+com.gilfoyle.app-media-1.6.0-41 /Users/mac/.gradle/caches/transforms-3/dd46a9f28e44cbcedf2c9ea747a180b4/transformed/media-1.6.0/res
+com.gilfoyle.app-fragment-1.3.6-42 /Users/mac/.gradle/caches/transforms-3/fdf60d0d6dd0a0b71d4bcea286f91f26/transformed/fragment-1.3.6/res
+com.gilfoyle.app-google-services-43 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/generated/res/google-services/release
+com.gilfoyle.app-pngs-44 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/generated/res/pngs/release
+com.gilfoyle.app-react-45 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/generated/res/react/release
+com.gilfoyle.app-resValues-46 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/generated/res/resValues/release
+com.gilfoyle.app-rs-47 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/generated/res/rs/release
+com.gilfoyle.app-mergeReleaseResources-48 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.gilfoyle.app-mergeReleaseResources-49 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.gilfoyle.app-merged_res-50 /Users/mac/Data/Git/ReactNative/demo project/android/app/build/intermediates/merged_res/release
+com.gilfoyle.app-main-51 /Users/mac/Data/Git/ReactNative/demo project/android/app/src/main/res
+com.gilfoyle.app-release-52 /Users/mac/Data/Git/ReactNative/demo project/android/app/src/release/res
+com.gilfoyle.app-packaged_res-53 /Users/mac/Data/Git/ReactNative/demo project/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-54 /Users/mac/Data/Git/ReactNative/demo project/node_modules/@react-native-community/datetimepicker/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-55 /Users/mac/Data/Git/ReactNative/demo project/node_modules/@react-native-community/netinfo/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-56 /Users/mac/Data/Git/ReactNative/demo project/node_modules/@react-native-firebase/app/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-57 /Users/mac/Data/Git/ReactNative/demo project/node_modules/@react-native-firebase/auth/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-58 /Users/mac/Data/Git/ReactNative/demo project/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-59 /Users/mac/Data/Git/ReactNative/demo project/node_modules/lottie-react-native/src/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-60 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-device-info/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-61 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-get-random-values/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-62 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-linear-gradient/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-63 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-mmkv/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-64 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-65 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-screens/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-66 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-svg/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-67 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-track-player/android/build/intermediates/packaged_res/release
+com.gilfoyle.app-packaged_res-68 /Users/mac/Data/Git/ReactNative/demo project/node_modules/react-native-vector-icons/android/build/intermediates/packaged_res/release
